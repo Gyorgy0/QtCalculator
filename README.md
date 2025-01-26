@@ -12,6 +12,7 @@ Számológép készítése. Készítsünk egy számológépet, amely képes egys
     Megjelenítés, esztétika (1 pont)
 
 Forrás: https://melytanulas.cc/Cpp/Cpp202425.html
+
 Webarchive: https://web.archive.org/web/20250126141935/https://melytanulas.cc/Cpp/Cpp202425.html
 
 A kiírásban megfogalmazott kitételeken felül a program még képes a billentyűn keresztül történő bevitelt is kezelni.
